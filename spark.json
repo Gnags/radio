@@ -1,0 +1,7 @@
+{
+    "name": "cc1101Radio",
+    "author": "Michael Spangaard Møller",
+    "license": "GPL",
+    "version": "0.0.0",
+    "description": "A library that helps photon boards communicate through CC1101 radios"
+}
